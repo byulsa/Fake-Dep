@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eea16d0dcbb6304eb60ea97569e5e37, type: 3}
+  m_Name: Carrot
+  m_EditorClassIdentifier: Assembly-CSharp::CropData
+  nameKR: "\uB2F9\uADFC"
+  nameEN: Carrot
+  image: {fileID: 860016433, guid: 726d838c078ef4648bc6ce3b4d6cf248, type: 3}
+  difficulty: 3
+  information: "\uBCA0\uD0C0\uCE74\uB85C\uD2F4\uC774 \uD48D\uBD80\uD574 \uB208 \uAC74\uAC15\uC5D0
+    \uC88B\uC74C"

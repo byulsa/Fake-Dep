@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eea16d0dcbb6304eb60ea97569e5e37, type: 3}
+  m_Name: Mango
+  m_EditorClassIdentifier: Assembly-CSharp::CropData
+  nameKR: "\uB9DD\uACE0"
+  nameEN: Mango
+  image: {fileID: -4138774, guid: 726d838c078ef4648bc6ce3b4d6cf248, type: 3}
+  difficulty: 5
+  information: "\uB2EC\uCF64\uD558\uACE0 \uC9C4\uD55C \uD5A5\uC758 \uC5F4\uB300 \uACFC\uC77C"

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eea16d0dcbb6304eb60ea97569e5e37, type: 3}
+  m_Name: Watermelon
+  m_EditorClassIdentifier: Assembly-CSharp::CropData
+  nameKR: "\uC218\uBC15"
+  nameEN: Watermelon
+  image: {fileID: 709493446, guid: 726d838c078ef4648bc6ce3b4d6cf248, type: 3}
+  difficulty: 5
+  information: "\uC218\uBD84\uC774 \uB9CE\uC544 \uC5EC\uB984\uC5D0 \uC778\uAE30 \uC788\uB294
+    \uACFC\uC77C"
